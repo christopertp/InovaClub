@@ -16,8 +16,9 @@ public class InovaClub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
         
-        System.out.println("push2");
+
         
         
         
@@ -35,6 +36,10 @@ public class InovaClub {
         
         
         System.out.println("aaaa");
+
+
+	System.out.println("Perubahan Pertama");
+
     }
     
 }
